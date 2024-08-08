@@ -1,0 +1,21 @@
+{
+    "metas": 
+    [
+        {
+            "minigameMetaURLS": 
+            [
+                "https://boggart-games-bundles.hb.ru-msk.vkcs.cloud/GSD_TEST/Chapter_001/Minigame_001/minigame_001_meta.json",
+                "https://boggart-games-bundles.hb.ru-msk.vkcs.cloud/GSD_TEST/Chapter_001/Minigame_002/minigame_002_meta.json"
+            ],
+            "size": "123"
+        },
+        {
+            "minigameMetaURLS": 
+            [
+                "https://boggart-games-bundles.hb.ru-msk.vkcs.cloud/GSD_TEST/Chapter_002/Minigame_001/minigame_001_meta.json",
+                "https://boggart-games-bundles.hb.ru-msk.vkcs.cloud/GSD_TEST/Chapter_002/Minigame_002/minigame_002_meta.json"
+            ],
+            "size": "23"
+        },
+    ]
+}
