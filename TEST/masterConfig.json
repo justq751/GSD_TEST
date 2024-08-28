@@ -2,6 +2,7 @@
     "metas": 
     [
         {
+            "name": "Unit_001",
             "minigameMetaURLS": 
             [
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Chapter_001/Minigame_001/minigame_001_meta.json",
@@ -10,6 +11,7 @@
             "size": "837981"
         },
         {
+            "name": "Unit_002",
             "minigameMetaURLS": 
             [
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Chapter_001/Minigame_001/minigame_001_meta.json",
