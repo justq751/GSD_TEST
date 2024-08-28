@@ -4,12 +4,12 @@
     [
         {
             "lastChanged": "2024-08-11T10:22:42.9066836+03:00",
-            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Chapter_001/Minigame_001/Images/Uggs.png",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Images/Uggs.png",
             "size": 0
         },
         {
             "lastChanged": "2024-08-11T10:42:42.9066836+03:00",
-            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Chapter_001/Minigame_001/Images/Warm_Socks.png",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Images/Warm_Socks.png",
             "size": 0
         },
     ],
@@ -18,12 +18,12 @@
     [
         {
             "lastChanged": "2024-08-11T10:42:42.9066836+03:00",
-            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Chapter_001/Minigame_001/Sounds/Uggs.mp3",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Audio/Uggs.mp3",
             "size": 43
         },
         {
             "lastChanged": "2024-09-11T10:42:42.9066836+03:00",
-            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Chapter_001/Minigame_001/Sounds/Warm_Socks.mp3",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Audio/Warm_Socks.mp3",
             "size": 60
         }
     ],
