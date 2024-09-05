@@ -19,5 +19,23 @@
             ],
             "size": "23"
         },
+        {
+            "name": "Unit_003",
+            "minigameMetaURLS": 
+            [
+                "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_003/Metas/minigame_001_meta.json",
+                "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_003/Metas/minigame_002_meta.json"
+            ],
+            "size": "23"
+        },
+        {
+            "name": "Unit_004",
+            "minigameMetaURLS": 
+            [
+                "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_004/Metas/minigame_001_meta.json",
+                "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_004/Metas/minigame_002_meta.json"
+            ],
+            "size": "23"
+        },
     ]
 }
