@@ -5,10 +5,9 @@
             "name": "Unit_001",
             "minigameMetaURLS": 
             [
-                "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Metas/minigame_001_meta.json",
-                "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Metas/minigame_002_meta.json"
+                "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Metas/minigame_001_meta.json"
             ],
-            "size": "2648071"
+            "size": 9150060
         },
         {
             "name": "Unit_002",
@@ -17,7 +16,7 @@
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_002/Metas/minigame_001_meta.json",
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_002/Metas/minigame_002_meta.json"
             ],
-            "size": "23"
+            "size": 23
         },
         {
             "name": "Unit_003",
@@ -26,7 +25,7 @@
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_003/Metas/minigame_001_meta.json",
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_003/Metas/minigame_002_meta.json"
             ],
-            "size": "23"
+            "size": 23
         },
         {
             "name": "Unit_004",
@@ -35,7 +34,7 @@
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_004/Metas/minigame_001_meta.json",
                 "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_004/Metas/minigame_002_meta.json"
             ],
-            "size": "23"
+            "size": 23
         },
     ]
 }
