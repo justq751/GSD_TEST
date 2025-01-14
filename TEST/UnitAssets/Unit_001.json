@@ -1,0 +1,117 @@
+{
+  "unit": "Unit_001",
+  "UsedGlossaries": [
+    {
+      "GlossaryName": "GL_00_01",
+      "Sprites": [
+        "gl_eight.png",
+        "gl_five.png",
+        "gl_four.png",
+        "gl_nine.png",
+        "gl_one.png",
+        "gl_seven.png",
+        "gl_six.png",
+        "gl_three.png",
+        "gl_two.png",
+        "gl_zero.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-01-14T08:15:35.4880041Z"
+    },
+    {
+      "GlossaryName": "GL_00_07",
+      "Sprites": [
+        "gl_bandana.png",
+        "gl_boots.png",
+        "gl_jacket.png",
+        "gl_jeans.png",
+        "gl_paintes.png",
+        "gl_shirt.png",
+        "gl_shorts.png",
+        "gl_sieeveless_shirt.png",
+        "gl_sneakers.png",
+        "gl_socks.png",
+        "gl_sock_cap.png",
+        "gl_sweater.png",
+        "gl_sweatshirt.png",
+        "gl_trousers.png",
+        "gl_tshirt_race.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-01-14T08:15:35.5160049Z"
+    },
+    {
+      "GlossaryName": "GL_00_08",
+      "Sprites": [
+        "gl_blouse.png",
+        "gl_boots.png",
+        "gl_cloak.png",
+        "gl_hat.png",
+        "gl_knee_socks.png",
+        "gl_panama.png",
+        "gl_pants_girl.png",
+        "gl_rubber_boots.png",
+        "gl_sandals.png",
+        "gl_skirt.png",
+        "gl_slippers.png",
+        "gl_sundress.png",
+        "gl_sweater.png",
+        "gl_swimsuit.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-01-14T08:15:35.5440064Z"
+    },
+    {
+      "GlossaryName": "GL_01_01",
+      "Sprites": [
+        "bath.png",
+        "gl_bathroom_cabinet.png",
+        "gl_hairbrush.png",
+        "gl_mirror.png",
+        "gl_shampoo.png",
+        "gl_sink.png",
+        "gl_soap.png",
+        "gl_toothbrush.png",
+        "gl_toothbrush_blue.png",
+        "gl_toothbrush_blue_pat.png",
+        "gl_toothbrush_green_pat.png",
+        "gl_toothbrush_red_pat.png",
+        "gl_toothbrush_yellow_pat.png",
+        "gl_toothpaste.png",
+        "gl_toothpaste_mint.png",
+        "gl_toothpaste_mint_strawberry.png",
+        "gl_toothpaste_white.png",
+        "gl_toothpaste_white_strawberry.png",
+        "gl_toothpaste_yellow.png",
+        "gl_toothpaste_yellow_strawberry.png",
+        "gl_towel.png",
+        "gl_towel_big_yellow.png",
+        "gl_towel_blue_white_pat.png",
+        "gl_towel_medium_yellow.png",
+        "gl_towel_small_yellow.png",
+        "gl_towel_white.png",
+        "gl_towel_white_blue_pat.png",
+        "gl_towel_white_red_pat.png",
+        "gl_towel_yellow.png",
+        "gl_towel_yellow_blue_pat.png",
+        "gl_towel_yellow_red_pat.png"
+      ],
+      "Sounds": [
+        "gl_bath.ogg",
+        "gl_bathroom_cabinet.ogg",
+        "gl_hairbrush.ogg",
+        "gl_mirror.ogg",
+        "gl_shampoo.ogg",
+        "gl_sink.ogg",
+        "gl_soap.ogg",
+        "gl_toothbrush.ogg",
+        "gl_toothpaste.ogg",
+        "gl_towel.ogg",
+        "gl_towel_big_yellow.ogg",
+        "gl_towel_medium_yellow.ogg",
+        "gl_towel_small_yellow.ogg"
+      ],
+      "LastChanged": "2025-01-14T08:15:35.6260063Z"
+    }
+  ]
+}
