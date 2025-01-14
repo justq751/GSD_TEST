@@ -1,0 +1,30 @@
+{
+    "id": 2,
+    "imagesMeta": 
+    [
+        {
+            "lastChanged": "2024-08-11T10:42:19.9066836+03:00",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Images/Hat.png",
+            "size": 0
+        },
+        {
+            "lastChanged": "2024-08-11T10:42:33.9066836+03:00",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Images/Scarf.png",
+            "size": 0
+        }
+    ],
+
+    "soundsMeta": 
+    [
+        {
+            "lastChanged": "2024-08-11T10:42:55.9066836+03:00",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Audio/hat.mp3",
+            "size": 43
+        },
+        {
+            "lastChanged": "2024-10-11T10:42:42.9066836+03:00",
+            "url": "https://raw.githubusercontent.com/justq751/GSD_TEST/main/TEST/Unit_001/Audio/scarf.mp3",
+            "size": 60
+        }
+    ]
+}
