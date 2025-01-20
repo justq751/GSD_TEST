@@ -16,29 +16,7 @@
         "gl_zero.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-01-14T08:15:35.4880041Z"
-    },
-    {
-      "GlossaryName": "GL_00_07",
-      "Sprites": [
-        "gl_bandana.png",
-        "gl_boots.png",
-        "gl_jacket.png",
-        "gl_jeans.png",
-        "gl_paintes.png",
-        "gl_shirt.png",
-        "gl_shorts.png",
-        "gl_sieeveless_shirt.png",
-        "gl_sneakers.png",
-        "gl_socks.png",
-        "gl_sock_cap.png",
-        "gl_sweater.png",
-        "gl_sweatshirt.png",
-        "gl_trousers.png",
-        "gl_tshirt_race.png"
-      ],
-      "Sounds": [],
-      "LastChanged": "2025-01-14T08:15:35.5160049Z"
+      "LastChanged": "2025-01-15T05:09:31.1206647Z"
     },
     {
       "GlossaryName": "GL_00_08",
@@ -59,7 +37,7 @@
         "gl_swimsuit.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-01-14T08:15:35.5440064Z"
+      "LastChanged": "2025-01-15T05:09:31.151664Z"
     },
     {
       "GlossaryName": "GL_01_01",
@@ -111,7 +89,355 @@
         "gl_towel_medium_yellow.ogg",
         "gl_towel_small_yellow.ogg"
       ],
-      "LastChanged": "2025-01-14T08:15:35.6260063Z"
+      "LastChanged": "2025-01-15T05:09:31.1956645Z"
+    },
+    {
+      "GlossaryName": "GL_01_06",
+      "Sprites": [
+        "gl_bath_comp.png",
+        "gl_cabinet_comp.png",
+        "gl_sink_comp.png"
+      ],
+      "Sounds": [
+        "gl_bath_comp.ogg",
+        "gl_cabinet_comp.ogg",
+        "gl_sink_comp.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.2086644Z"
+    },
+    {
+      "GlossaryName": "GL_01_10",
+      "Sprites": [],
+      "Sounds": [],
+      "LastChanged": "0001-01-01T00:00:00"
+    },
+    {
+      "GlossaryName": "GL_02_02",
+      "Sprites": [
+        "gl_bowl.png",
+        "gl_cup.png",
+        "gl_fork.png",
+        "gl_glass.png",
+        "gl_knife.png",
+        "gl_plate.png",
+        "gl_pot.png",
+        "gl_saucer.png",
+        "gl_soup_plate.png",
+        "gl_spoon.png",
+        "gl_sugar_bowl.png",
+        "gl_teaspoon.png"
+      ],
+      "Sounds": [
+        "gl_bowl.ogg",
+        "gl_cup.ogg",
+        "gl_glass.ogg",
+        "gl_plate.ogg",
+        "gl_pot.ogg",
+        "gl_saucer.ogg",
+        "gl_soup_bowl.ogg",
+        "gl_spoon.ogg",
+        "gl_sugar_bowl.ogg",
+        "gl_teaspoon.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.2356639Z"
+    },
+    {
+      "GlossaryName": "GL_02_03",
+      "Sprites": [
+        "gl_bread.png",
+        "gl_butter.png",
+        "gl_cheese.png",
+        "gl_chicken.png",
+        "gl_cocoa.png",
+        "gl_corn_flakes.png",
+        "gl_cucumber.png",
+        "gl_eggs.png",
+        "gl_fish.png",
+        "gl_ham.png",
+        "gl_hercules.png",
+        "gl_honey.png",
+        "gl_jam.png",
+        "gl_juice.png",
+        "gl_milk.png",
+        "gl_pasta_cereal.png",
+        "gl_pepper.png",
+        "gl_potato.png",
+        "gl_pot_soup.png",
+        "gl_rice.png",
+        "gl_salt.png",
+        "gl_sausage.png",
+        "gl_sour_cream.png",
+        "gl_sugar.png",
+        "gl_tea.png",
+        "gl_tomato.png",
+        "gl_yogurt.png"
+      ],
+      "Sounds": [
+        "gl_bread.ogg",
+        "gl_butter.ogg",
+        "gl_cheese.ogg",
+        "gl_chicken.ogg",
+        "gl_cocoa.ogg",
+        "gl_corn_flakes.ogg",
+        "gl_cucumber.ogg",
+        "gl_eggs.ogg",
+        "gl_fish.ogg",
+        "gl_ham.ogg",
+        "gl_hercules.ogg",
+        "gl_honey.ogg",
+        "gl_jam.ogg",
+        "gl_juice.ogg",
+        "gl_milk.ogg",
+        "gl_pasta_cereal.ogg",
+        "gl_pepper.ogg",
+        "gl_potato.ogg",
+        "gl_pot_soup.ogg",
+        "gl_rice.ogg",
+        "gl_salt.ogg",
+        "gl_sausage.ogg",
+        "gl_sour_cream.ogg",
+        "gl_sugar.ogg",
+        "gl_tea.ogg",
+        "gl_tomato.ogg",
+        "gl_yogurt.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.2986641Z"
+    },
+    {
+      "GlossaryName": "GL_02_04",
+      "Sprites": [
+        "gl_juice_apple_card.png",
+        "gl_juice_carrot_card.png",
+        "gl_juice_orange_card.png",
+        "gl_juice_pumpkin_card.png"
+      ],
+      "Sounds": [
+        "gl_juice_apple.ogg",
+        "gl_juice_carrot.ogg",
+        "gl_juice_orange.ogg",
+        "gl_juice_pumpkin.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.3066642Z"
+    },
+    {
+      "GlossaryName": "GL_02_05",
+      "Sprites": [
+        "gl_fried_fish.png",
+        "gl_pasta.png",
+        "gl_piece_of_bread.png",
+        "gl_soup.png",
+        "gl_vegetable_salad.png"
+      ],
+      "Sounds": [
+        "gl_fried_fish .ogg",
+        "gl_pasta.ogg",
+        "gl_piece_of_bread.ogg",
+        "gl_soup.ogg",
+        "gl_vegetable_salad.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.3176641Z"
+    },
+    {
+      "GlossaryName": "GL_02_07",
+      "Sprites": [],
+      "Sounds": [],
+      "LastChanged": "0001-01-01T00:00:00"
+    },
+    {
+      "GlossaryName": "GL_02_08",
+      "Sprites": [
+        "gl_varya_breakfast_cereal.png",
+        "gl_varya_cooks_cereal.png",
+        "gl_varya_washes_dishes.png",
+        "gl_varya_washes_hands.png"
+      ],
+      "Sounds": [
+        "gl_varya_breakfast_cereal.ogg",
+        "gl_varya_cooks_cereal.ogg",
+        "gl_varya_washes_dishes.ogg",
+        "gl_varya_washes_hands.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.3556641Z"
+    },
+    {
+      "GlossaryName": "GL_02_09",
+      "Sprites": [
+        "gl_dino_breakfast_sandwich.png",
+        "gl_dino_cooks_sandwich.png",
+        "gl_dino_pours_tea.png"
+      ],
+      "Sounds": [
+        "gl_dino_breakfast_sandwich.ogg",
+        "gl_dino_cooks_sandwich.ogg",
+        "gl_dino_pours_tea.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.3646662Z"
+    },
+    {
+      "GlossaryName": "GL_02_10",
+      "Sprites": [
+        "gl_petya_breakfast_cereal.png",
+        "gl_petya_cooks_cereal.png",
+        "gl_petya_washes_dishes.png",
+        "gl_petya_washes_hands.png"
+      ],
+      "Sounds": [
+        "gl_petya_breakfast_cereal.ogg",
+        "gl_petya_cooks_cereal.ogg",
+        "gl_petya_washes_dishes.ogg",
+        "gl_petya_washes_hands.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.3746641Z"
+    },
+    {
+      "GlossaryName": "GL_03_02",
+      "Sprites": [
+        "gl_bear.png",
+        "gl_blanket_pillow.png",
+        "gl_bunny.png",
+        "gl_coat_doll.png",
+        "gl_doll.png",
+        "gl_doll_bed.png",
+        "gl_doll_cup.png",
+        "gl_doll_house.png",
+        "gl_doll_plate.png",
+        "gl_doll_spoon.png",
+        "gl_doll_teapot.png",
+        "gl_dress_doll.png",
+        "gl_toy_chair.png",
+        "gl_toy_dishes.png",
+        "gl_toy_table.png"
+      ],
+      "Sounds": [
+        "gl_bear.ogg",
+        "gl_blanket_pillow.ogg",
+        "gl_bunny.ogg",
+        "gl_coat_doll.ogg",
+        "gl_doll.ogg",
+        "gl_doll_bed.ogg",
+        "gl_doll_cup.ogg",
+        "gl_doll_house.ogg",
+        "gl_doll_plate.ogg",
+        "gl_doll_spoons.ogg",
+        "gl_doll_teapot.ogg",
+        "gl_dress_doll.ogg",
+        "gl_toy_chair.ogg",
+        "gl_toy_dishes.ogg",
+        "gl_toy_table.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.453664Z"
+    },
+    {
+      "GlossaryName": "GL_03_03",
+      "Sprites": [
+        "gl_airplane.png",
+        "gl_astronaut.png",
+        "gl_autotrack.png",
+        "gl_bus.png",
+        "gl_car.png",
+        "gl_construction_bolts.png",
+        "gl_crane.png",
+        "gl_cubes.png",
+        "gl_railway.png",
+        "gl_robot.png",
+        "gl_robot_control.png",
+        "gl_rocket.png",
+        "gl_spanner.png",
+        "gl_tractor.png",
+        "gl_train.png",
+        "gl_truck.png"
+      ],
+      "Sounds": [
+        "gl_airplane.ogg",
+        "gl_astronaut.ogg",
+        "gl_autotrack.ogg",
+        "gl_bus.ogg",
+        "gl_car.ogg",
+        "gl_construction_bolts.ogg",
+        "gl_crane.ogg",
+        "gl_cubes.ogg",
+        "gl_railway.ogg",
+        "gl_robot.ogg",
+        "gl_robot_control.ogg",
+        "gl_rocket.ogg",
+        "gl_spanner.ogg",
+        "gl_tractor.ogg",
+        "gl_train.ogg",
+        "gl_truck.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.4856637Z"
+    },
+    {
+      "GlossaryName": "GL_03_04",
+      "Sprites": [
+        "gl_bear_drinks_tea.png",
+        "gl_bear_pours_tea.png",
+        "gl_bear_puts_cup.png",
+        "gl_bear_puts_plate.png",
+        "gl_bear_washes_dishes.png",
+        "gl_bear_washes_paws.png"
+      ],
+      "Sounds": [
+        "gl_bear_drinks_tea.ogg",
+        "gl_bear_pours_tea.ogg",
+        "gl_bear_puts_cup.ogg",
+        "gl_bear_puts_plate.ogg",
+        "gl_bear_washes_dishes.ogg",
+        "gl_bear_washes_paws.ogg"
+      ],
+      "LastChanged": "2025-01-15T05:09:31.5416638Z"
+    },
+    {
+      "GlossaryName": "GL_03_05",
+      "Sprites": [
+        "gl_toys_kidsroom.png",
+        "gl_train_rides_railway.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-01-15T05:09:31.5476642Z"
+    },
+    {
+      "GlossaryName": "GL_05_03",
+      "Sprites": [
+        "gl_chamomile.png",
+        "gl_cornflower.png",
+        "gl_ficus.png",
+        "gl_forget_me_not.png",
+        "gl_geranium.png",
+        "gl_violet.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-01-15T05:09:31.568668Z"
+    },
+    {
+      "GlossaryName": "GL_06_02",
+      "Sprites": [],
+      "Sounds": [],
+      "LastChanged": "0001-01-01T00:00:00"
+    },
+    {
+      "GlossaryName": "GL_06_03",
+      "Sprites": [
+        "gl_bear_to_bed.png",
+        "gl_doll_sleeps_bed.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-01-15T05:09:31.5776641Z"
+    },
+    {
+      "GlossaryName": "GL_08_02",
+      "Sprites": [
+        "gl_bandage.png",
+        "gl_liquid_medicine.png",
+        "gl_ointment.png",
+        "gl_patch.png",
+        "gl_pills.png",
+        "gl_prescription.png",
+        "gl_stethoscope.png",
+        "gl_syringe.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-01-15T05:09:31.5866645Z"
     }
   ]
 }
