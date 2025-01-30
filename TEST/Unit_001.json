@@ -16,7 +16,7 @@
         "gl_zero.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:50.6932466+03:00"
     },
     {
       "GlossaryName": "GL_00_07",
@@ -48,7 +48,7 @@
         "gl_tshirt_race_loc.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:50.7422466+03:00"
     },
     {
       "GlossaryName": "GL_00_08",
@@ -76,7 +76,7 @@
         "gl_swimsuit.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:50.7832466+03:00"
     },
     {
       "GlossaryName": "GL_01_01",
@@ -137,7 +137,7 @@
         "gl_towel_medium_yellow.ogg",
         "gl_towel_small_yellow.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.8686975Z"
+      "LastChanged": "2025-01-27T13:37:50.8642481+03:00"
     },
     {
       "GlossaryName": "GL_01_06",
@@ -151,13 +151,13 @@
         "gl_cabinet_comp.ogg",
         "gl_sink_comp.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.8825805Z"
+      "LastChanged": "2025-01-27T13:37:50.9042467+03:00"
     },
     {
       "GlossaryName": "GL_01_10",
       "Sprites": [],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:50.9372456+03:00"
     },
     {
       "GlossaryName": "GL_02_02",
@@ -189,7 +189,7 @@
         "gl_sugar_bowl.ogg",
         "gl_teaspoon.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.9113547Z"
+      "LastChanged": "2025-01-27T13:37:50.9647621+03:00"
     },
     {
       "GlossaryName": "GL_02_03",
@@ -278,15 +278,15 @@
         "gl_tomato.ogg",
         "gl_yogurt.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.9421712Z"
+      "LastChanged": "2025-01-27T13:37:51.0767948+03:00"
     },
     {
       "GlossaryName": "GL_02_04",
       "Sprites": [
-        "gl_juice_apple_card.png",
-        "gl_juice_carrot_card.png",
-        "gl_juice_orange_card.png",
-        "gl_juice_pumpkin_card.png"
+        "gl_juice_apple.png",
+        "gl_juice_carrot.png",
+        "gl_juice_orange.png",
+        "gl_juice_pumpkin.png"
       ],
       "Sounds": [
         "gl_juice_apple.ogg",
@@ -294,7 +294,7 @@
         "gl_juice_orange.ogg",
         "gl_juice_pumpkin.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.9480308Z"
+      "LastChanged": "2025-01-27T13:37:51.1318389+03:00"
     },
     {
       "GlossaryName": "GL_02_05",
@@ -312,7 +312,7 @@
         "gl_soup.ogg",
         "gl_vegetable_salad.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.9560381Z"
+      "LastChanged": "2025-01-27T13:37:51.1588379+03:00"
     },
     {
       "GlossaryName": "GL_02_07",
@@ -322,7 +322,7 @@
         "gl_table_set_06.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.1908355+03:00"
     },
     {
       "GlossaryName": "GL_02_08",
@@ -338,7 +338,7 @@
         "gl_varya_washes_dishes.ogg",
         "gl_varya_washes_hands.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.9717044Z"
+      "LastChanged": "2025-01-27T13:37:51.2098355+03:00"
     },
     {
       "GlossaryName": "GL_02_09",
@@ -352,7 +352,7 @@
         "gl_dino_cooks_sandwich.ogg",
         "gl_dino_pours_tea.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.9818051Z"
+      "LastChanged": "2025-01-27T13:37:51.2328353+03:00"
     },
     {
       "GlossaryName": "GL_02_10",
@@ -368,7 +368,7 @@
         "gl_petya_washes_dishes.ogg",
         "gl_petya_washes_hands.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:38.9937187Z"
+      "LastChanged": "2025-01-27T13:37:51.2583527+03:00"
     },
     {
       "GlossaryName": "GL_03_02",
@@ -420,7 +420,7 @@
         "gl_toy_dishes.ogg",
         "gl_toy_table.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:39.0138989Z"
+      "LastChanged": "2025-01-27T13:37:51.3298673+03:00"
     },
     {
       "GlossaryName": "GL_03_03",
@@ -485,7 +485,7 @@
         "gl_train.ogg",
         "gl_truck.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:39.0334112Z"
+      "LastChanged": "2025-01-27T13:37:51.5274586+03:00"
     },
     {
       "GlossaryName": "GL_03_04",
@@ -505,7 +505,7 @@
         "gl_bear_washes_dishes.ogg",
         "gl_bear_washes_paws.ogg"
       ],
-      "LastChanged": "2025-01-24T06:20:39.0506881Z"
+      "LastChanged": "2025-01-27T13:37:51.5844597+03:00"
     },
     {
       "GlossaryName": "GL_03_05",
@@ -514,7 +514,7 @@
         "gl_train_rides_railway.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.6084592+03:00"
     },
     {
       "GlossaryName": "GL_03_06",
@@ -533,7 +533,7 @@
         "gl_toy_table_shadow.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.6334586+03:00"
     },
     {
       "GlossaryName": "GL_05_03",
@@ -546,7 +546,7 @@
         "gl_violet.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.6564601+03:00"
     },
     {
       "GlossaryName": "GL_05_04",
@@ -565,7 +565,7 @@
         "gl_take_out_clothes.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.6874593+03:00"
     },
     {
       "GlossaryName": "GL_05_10",
@@ -579,7 +579,7 @@
         "gl_throw_garbage.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.7164579+03:00"
     },
     {
       "GlossaryName": "GL_06_02",
@@ -598,7 +598,7 @@
         "gl_vacuum_cleaner.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.7424579+03:00"
     },
     {
       "GlossaryName": "GL_06_03",
@@ -607,7 +607,7 @@
         "gl_doll_sleeps_bed.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.7594585+03:00"
     },
     {
       "GlossaryName": "GL_08_02",
@@ -622,7 +622,7 @@
         "gl_syringe.png"
       ],
       "Sounds": [],
-      "LastChanged": "0001-01-01T00:00:00"
+      "LastChanged": "2025-01-27T13:37:51.7774577+03:00"
     }
   ]
 }
