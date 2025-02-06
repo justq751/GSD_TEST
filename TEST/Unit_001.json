@@ -92,6 +92,7 @@
         "gl_bathroom_cabinet_loc.png",
         "gl_hairbrush.png",
         "gl_hairbrush_loc.png",
+        "gl_hairdryer.png",
         "gl_mirror.png",
         "gl_mirror_loc.png",
         "gl_shampoo.png",
@@ -145,7 +146,7 @@
         "gl_towel_small_yellow.ogg"
       ],
       "LastChanged": "2025-01-29T09:15:07.6217939+03:00",
-      "ItemAmount": 54
+      "ItemAmount": 55
     },
     {
       "GlossaryName": "GL_01_06",
@@ -652,6 +653,17 @@
       "ItemAmount": 7
     },
     {
+      "GlossaryName": "GL_06_01",
+      "Sprites": [
+        "gl_crayons.png",
+        "gl_notebook.png",
+        "gl_plasticine.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-05T18:09:17.9767826+03:00",
+      "ItemAmount": 3
+    },
+    {
       "GlossaryName": "GL_06_02",
       "Sprites": [
         "gl_broom.png",
@@ -699,7 +711,7 @@
         "gl_longbrick_brick_arc_cube_cylinder_roof.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-02-05T10:55:27.0969236+03:00",
+      "LastChanged": "2025-02-05T11:03:53.8279873+03:00",
       "ItemAmount": 13
     },
     {
@@ -728,7 +740,74 @@
       "Sounds": [],
       "LastChanged": "2025-01-29T09:15:26.1139484+03:00",
       "ItemAmount": 3
+    },
+    {
+      "GlossaryName": "GL_10_01",
+      "Sprites": [
+        "gl_beads.png",
+        "gl_book.png",
+        "gl_bracelet.png",
+        "gl_drawing.png",
+        "gl_embroidery.png",
+        "gl_wooden_box.png",
+        "gl_wooden_elephant.png",
+        "gl_wooden_horse.png",
+        "gl_wooden_ship.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-05T18:09:18.0448115+03:00",
+      "ItemAmount": 9
+    },
+    {
+      "GlossaryName": "GL_10_02",
+      "Sprites": [
+        "gl_constellation.png",
+        "gl_planets.png",
+        "gl_stars.png",
+        "gl_sun.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-05T18:09:18.0874449+03:00",
+      "ItemAmount": 4
+    },
+    {
+      "GlossaryName": "GL_10_03",
+      "Sprites": [
+        "gl_bead_berry.png",
+        "gl_bead_flower.png",
+        "gl_bead_leaf.png",
+        "gl_bead_mushroon.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-05T18:09:18.1317294+03:00",
+      "ItemAmount": 4
+    },
+    {
+      "GlossaryName": "GL_10_04",
+      "Sprites": [
+        "gl_airplane_outline.png",
+        "gl_blimp.png",
+        "gl_dragonfly.png",
+        "gl_flying_bird.png",
+        "gl_helicopter.png",
+        "gl_helicopter_outline.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-05T18:09:18.1878576+03:00",
+      "ItemAmount": 6
+    },
+    {
+      "GlossaryName": "GL_10_06",
+      "Sprites": [
+        "gl_embroidery_butterfly.png",
+        "gl_embroidery_flower.png",
+        "gl_embroidery_mushroom.png",
+        "gl_embroidery_tree.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-05T18:09:18.231472+03:00",
+      "ItemAmount": 4
     }
   ],
-  "TotalItemAmount": 493
+  "TotalItemAmount": 524
 }
