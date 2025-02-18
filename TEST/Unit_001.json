@@ -27,8 +27,37 @@
         "gl_two.ogg",
         "gl_zero.ogg"
       ],
-      "LastChanged": "2025-02-11T05:29:15.0498439Z",
+      "LastChanged": "2025-02-13T10:52:41.5450348+03:00",
       "ItemAmount": 20
+    },
+    {
+      "GlossaryName": "GL_00_05",
+      "Sprites": [
+        "gl_coin_1.png",
+        "gl_coin_2.png",
+        "gl_coin_4.png",
+        "gl_coin_5.png",
+        "gl_coin_6.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-14T16:08:36.5564113+03:00",
+      "ItemAmount": 5
+    },
+    {
+      "GlossaryName": "GL_00_06",
+      "Sprites": [],
+      "Sounds": [
+        "gl_angry.ogg",
+        "gl_cry.ogg",
+        "gl_happy.ogg",
+        "gl_laugh.ogg",
+        "gl_quiet.ogg",
+        "gl_sad.ogg",
+        "gl_surprise.ogg",
+        "gl_yawn.ogg"
+      ],
+      "LastChanged": "2025-02-13T10:52:41.5530377+03:00",
+      "ItemAmount": 8
     },
     {
       "GlossaryName": "GL_00_07",
@@ -52,6 +81,11 @@
         "gl_socks.png",
         "gl_socks_loc.png",
         "gl_sock_cap.png",
+        "gl_sock_cap_big_red.png",
+        "gl_sock_cap_orange.png",
+        "gl_sock_cap_red.png",
+        "gl_sock_cap_small_green.png",
+        "gl_sock_cap_small_red.png",
         "gl_sweater.png",
         "gl_trainers.png",
         "gl_trousers.png",
@@ -91,8 +125,8 @@
         "gl_trousers_warm.ogg",
         "gl_tshirt_race.ogg"
       ],
-      "LastChanged": "2025-02-11T05:29:15.0788436Z",
-      "ItemAmount": 55
+      "LastChanged": "2025-02-13T10:52:41.5790472+03:00",
+      "ItemAmount": 60
     },
     {
       "GlossaryName": "GL_00_08",
@@ -102,7 +136,10 @@
         "gl_cardigan.png",
         "gl_cardigan_loc.png",
         "gl_cloak.png",
+        "gl_cloak_big_yellow.png",
         "gl_cloak_loc.png",
+        "gl_cloak_medium_yellow.png",
+        "gl_cloak_small_yellow.png",
         "gl_dress.png",
         "gl_dress_loc.png",
         "gl_hat.png",
@@ -113,6 +150,9 @@
         "gl_panama.png",
         "gl_pants_girl.png",
         "gl_rubber_boots.png",
+        "gl_rubber_boots_big_blue.png",
+        "gl_rubber_boots_medium_blue.png",
+        "gl_rubber_boots_small_blue.png",
         "gl_sandals.png",
         "gl_skirt.png",
         "gl_skirt_loc.png",
@@ -125,6 +165,7 @@
       "Sounds": [
         "gl_blouse.ogg",
         "gl_cardigan.ogg",
+        "gl_cloak.ogg",
         "gl_cloak_big_yellow.ogg",
         "gl_cloak_medium_yellow.ogg",
         "gl_cloak_small_yellow.ogg",
@@ -139,7 +180,6 @@
         "gl_overalls.ogg",
         "gl_panama.ogg",
         "gl_pants_girl.ogg",
-        "gl_raincoat.ogg",
         "gl_rubber_boots.ogg",
         "gl_rubber_boots_big_blue.ogg",
         "gl_rubber_boots_medium_blue.ogg",
@@ -157,8 +197,30 @@
         "gl_umbrella_big.ogg",
         "gl_umbrella_small.ogg"
       ],
-      "LastChanged": "2025-02-11T05:29:15.1038437Z",
-      "ItemAmount": 57
+      "LastChanged": "2025-02-13T10:52:41.6185674+03:00",
+      "ItemAmount": 63
+    },
+    {
+      "GlossaryName": "GL_00_11",
+      "Sprites": [
+        "coin.png",
+        "gl_numicon_1.png",
+        "gl_numicon_10.png",
+        "gl_numicon_2.png",
+        "gl_numicon_2_4.png",
+        "gl_numicon_2_6.png",
+        "gl_numicon_3.png",
+        "gl_numicon_4.png",
+        "gl_numicon_4_3.png",
+        "gl_numicon_5.png",
+        "gl_numicon_6.png",
+        "gl_numicon_7.png",
+        "gl_numicon_8.png",
+        "gl_numicon_9.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-14T16:08:36.5524106+03:00",
+      "ItemAmount": 14
     },
     {
       "GlossaryName": "GL_00_13",
@@ -168,7 +230,7 @@
         "gl_juice_pricetag.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-02-06T17:17:10.9225353+03:00",
+      "LastChanged": "2025-02-13T10:52:41.6465799+03:00",
       "ItemAmount": 3
     },
     {
@@ -233,7 +295,7 @@
         "gl_towel_medium_yellow.ogg",
         "gl_towel_small_yellow.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.1782962Z",
+      "LastChanged": "2025-02-13T10:52:41.6915956+03:00",
       "ItemAmount": 56
     },
     {
@@ -248,7 +310,7 @@
         "gl_cabinet_comp.ogg",
         "gl_sink_comp.ogg"
       ],
-      "LastChanged": "2025-01-27T13:37:50.9042467+03:00",
+      "LastChanged": "2025-02-13T10:52:41.7116027+03:00",
       "ItemAmount": 6
     },
     {
@@ -268,14 +330,14 @@
         "gl_towel_outline.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-01-27T13:37:50.9302466+03:00",
+      "LastChanged": "2025-02-13T10:52:41.7226068+03:00",
       "ItemAmount": 12
     },
     {
       "GlossaryName": "GL_01_10",
       "Sprites": [],
       "Sounds": [],
-      "LastChanged": "2025-01-27T13:37:50.9372456+03:00",
+      "LastChanged": "2025-02-13T10:52:41.7236073+03:00",
       "ItemAmount": 0
     },
     {
@@ -311,14 +373,16 @@
         "gl_sugar_bowl.ogg",
         "gl_teaspoon.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.1802944Z",
+      "LastChanged": "2025-02-13T10:52:41.7383147+03:00",
       "ItemAmount": 27
     },
     {
       "GlossaryName": "GL_02_03",
       "Sprites": [
+        "gl_baguette.png",
         "gl_bread.png",
         "gl_bread_loc.png",
+        "gl_bun.png",
         "gl_butter.png",
         "gl_butter_loc.png",
         "gl_cabbage.png",
@@ -331,6 +395,7 @@
         "gl_cocoa_loc.png",
         "gl_corn_flakes.png",
         "gl_corn_flakes_loc.png",
+        "gl_crackers.png",
         "gl_cucumber.png",
         "gl_eggs.png",
         "gl_eggs_loc.png",
@@ -424,8 +489,8 @@
         "gl_tomatoes_3.ogg",
         "gl_yogurt.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.1992934Z",
-      "ItemAmount": 104
+      "LastChanged": "2025-02-13T10:52:41.8043434+03:00",
+      "ItemAmount": 107
     },
     {
       "GlossaryName": "GL_02_04",
@@ -441,7 +506,7 @@
         "gl_juice_orange.ogg",
         "gl_juice_pumpkin.ogg"
       ],
-      "LastChanged": "2025-01-27T13:37:51.1318389+03:00",
+      "LastChanged": "2025-02-13T10:52:41.8373582+03:00",
       "ItemAmount": 8
     },
     {
@@ -460,7 +525,7 @@
         "gl_soup.ogg",
         "gl_vegetable_salad.ogg"
       ],
-      "LastChanged": "2025-01-27T13:37:51.1588379+03:00",
+      "LastChanged": "2025-02-13T10:52:41.8513689+03:00",
       "ItemAmount": 10
     },
     {
@@ -471,7 +536,7 @@
         "gl_table_set_06.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-01-27T13:37:51.1908355+03:00",
+      "LastChanged": "2025-02-13T10:52:41.8633728+03:00",
       "ItemAmount": 3
     },
     {
@@ -488,7 +553,7 @@
         "gl_varya_washes_dishes.ogg",
         "gl_varya_washes_hands.ogg"
       ],
-      "LastChanged": "2025-01-27T13:37:51.2098355+03:00",
+      "LastChanged": "2025-02-13T10:52:41.8773772+03:00",
       "ItemAmount": 8
     },
     {
@@ -503,7 +568,7 @@
         "gl_dino_cooks_sandwich.ogg",
         "gl_dino_pours_tea.ogg"
       ],
-      "LastChanged": "2025-01-27T13:37:51.2328353+03:00",
+      "LastChanged": "2025-02-13T10:52:41.8853805+03:00",
       "ItemAmount": 6
     },
     {
@@ -522,7 +587,7 @@
         "gl_petya_washes_dishes.ogg",
         "gl_petya_washes_hands.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2022929Z",
+      "LastChanged": "2025-02-13T10:52:41.8993851+03:00",
       "ItemAmount": 10
     },
     {
@@ -578,7 +643,7 @@
         "gl_toy_dishes.ogg",
         "gl_toy_table.ogg"
       ],
-      "LastChanged": "2025-02-06T14:17:23.0162507Z",
+      "LastChanged": "2025-02-13T10:52:41.9492771+03:00",
       "ItemAmount": 47
     },
     {
@@ -673,7 +738,7 @@
         "gl_truck.ogg",
         "gl_truck_coal.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2238164Z",
+      "LastChanged": "2025-02-13T10:52:42.0158162+03:00",
       "ItemAmount": 86
     },
     {
@@ -694,7 +759,7 @@
         "gl_bear_washes_dishes.ogg",
         "gl_bear_washes_paws.ogg"
       ],
-      "LastChanged": "2025-01-27T13:37:51.5844597+03:00",
+      "LastChanged": "2025-02-13T10:52:42.0517407+03:00",
       "ItemAmount": 12
     },
     {
@@ -704,7 +769,7 @@
         "gl_train_rides_railway.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-01-27T13:37:51.6084592+03:00",
+      "LastChanged": "2025-02-13T10:52:42.0617441+03:00",
       "ItemAmount": 2
     },
     {
@@ -724,7 +789,7 @@
         "gl_toy_table_shadow.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-01-27T13:37:51.6334586+03:00",
+      "LastChanged": "2025-02-13T10:52:42.0707476+03:00",
       "ItemAmount": 12
     },
     {
@@ -745,7 +810,7 @@
         "gl_geranium.ogg",
         "gl_violet.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2308135Z",
+      "LastChanged": "2025-02-13T10:52:42.0817511+03:00",
       "ItemAmount": 12
     },
     {
@@ -778,7 +843,7 @@
         "gl_switch_off_washing_machine.ogg",
         "gl_take_out_clothes.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2468137Z",
+      "LastChanged": "2025-02-13T10:52:42.1027585+03:00",
       "ItemAmount": 24
     },
     {
@@ -793,14 +858,27 @@
         "gl_throw_garbage.png"
       ],
       "Sounds": [],
-      "LastChanged": "2025-01-27T13:37:51.7164579+03:00",
+      "LastChanged": "2025-02-13T10:52:42.1428062+03:00",
       "ItemAmount": 7
     },
     {
       "GlossaryName": "GL_06_01",
       "Sprites": [
+        "gl_album.png",
+        "gl_album_loc.png",
+        "gl_books.png",
+        "gl_books_loc.png",
+        "gl_brush.png",
+        "gl_brush_loc.png",
         "gl_crayons.png",
+        "gl_markers.png",
+        "gl_markers_loc.png",
         "gl_notebook.png",
+        "gl_paints_loc.png",
+        "gl_pencils.png",
+        "gl_pencils_loc.png",
+        "gl_pencil_case.png",
+        "gl_pencil_case_loc.png",
         "gl_plasticine.png"
       ],
       "Sounds": [
@@ -815,8 +893,8 @@
         "gl_pencil_case.ogg",
         "gl_plasticine.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2588175Z",
-      "ItemAmount": 13
+      "LastChanged": "2025-02-13T10:52:42.1538101+03:00",
+      "ItemAmount": 26
     },
     {
       "GlossaryName": "GL_06_02",
@@ -848,7 +926,7 @@
         "gl_trash_can.ogg",
         "gl_vacuum_cleaner.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2738138Z",
+      "LastChanged": "2025-02-13T10:52:42.171818+03:00",
       "ItemAmount": 24
     },
     {
@@ -861,7 +939,7 @@
         "gl_bear_to_bed.ogg",
         "gl_doll_sleeps_bed.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2778243Z",
+      "LastChanged": "2025-02-13T10:52:42.1948898+03:00",
       "ItemAmount": 4
     },
     {
@@ -896,7 +974,7 @@
         "gl_longbrick_brick_arc_cube_cylinder.ogg",
         "gl_longbrick_brick_arc_cube_cylinder_roof.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.2948241Z",
+      "LastChanged": "2025-02-13T10:52:42.2357686+03:00",
       "ItemAmount": 26
     },
     {
@@ -921,8 +999,19 @@
         "gl_stethoscope.ogg",
         "gl_syringe.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.3038247Z",
+      "LastChanged": "2025-02-13T10:52:42.2567759+03:00",
       "ItemAmount": 16
+    },
+    {
+      "GlossaryName": "GL_08_05",
+      "Sprites": [
+        "gl_castle_4pieces.png",
+        "gl_castle_4pieces_alt.png",
+        "gl_castle_6pieces.png"
+      ],
+      "Sounds": [],
+      "LastChanged": "2025-02-14T13:22:16.3932017+03:00",
+      "ItemAmount": 3
     },
     {
       "GlossaryName": "GL_09_04",
@@ -936,7 +1025,7 @@
         "gl_petya_knee_hurt.ogg",
         "gl_varya_fever.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.3078258Z",
+      "LastChanged": "2025-02-13T10:52:42.2757829+03:00",
       "ItemAmount": 6
     },
     {
@@ -948,9 +1037,13 @@
         "gl_drawing.png",
         "gl_embroidery.png",
         "gl_wooden_box.png",
+        "gl_wooden_box_loc.png",
         "gl_wooden_elephant.png",
+        "gl_wooden_elephant_loc.png",
         "gl_wooden_horse.png",
-        "gl_wooden_ship.png"
+        "gl_wooden_horse_loc.png",
+        "gl_wooden_ship.png",
+        "gl_wooden_ship_loc.png"
       ],
       "Sounds": [
         "gl_beads.ogg",
@@ -963,8 +1056,8 @@
         "gl_wooden_horse.ogg",
         "gl_wooden_ship_loc.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.3198239Z",
-      "ItemAmount": 18
+      "LastChanged": "2025-02-13T10:52:42.304793+03:00",
+      "ItemAmount": 22
     },
     {
       "GlossaryName": "GL_10_02",
@@ -980,7 +1073,7 @@
         "gl_stars.ogg",
         "gl_sun.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.3248247Z",
+      "LastChanged": "2025-02-13T10:52:42.3227992+03:00",
       "ItemAmount": 8
     },
     {
@@ -997,7 +1090,7 @@
         "gl_bead_leaf.ogg",
         "gl_bead_mushroon.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.3298242Z",
+      "LastChanged": "2025-02-13T10:52:42.3408198+03:00",
       "ItemAmount": 8
     },
     {
@@ -1016,7 +1109,7 @@
         "gl_flying_bird_loc.ogg",
         "gl_helicopter_loc.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.3348235Z",
+      "LastChanged": "2025-02-13T10:52:42.3598261+03:00",
       "ItemAmount": 10
     },
     {
@@ -1033,12 +1126,20 @@
         "gl_embroidery_mushroom.ogg",
         "gl_embroidery_tree.ogg"
       ],
-      "LastChanged": "2025-02-10T11:21:42.340825Z",
+      "LastChanged": "2025-02-13T10:52:42.3788335+03:00",
       "ItemAmount": 8
     },
     {
       "GlossaryName": "GL_11_01",
-      "Sprites": [],
+      "Sprites": [
+        "gl_brush_hair.png",
+        "gl_brush_teeth.png",
+        "gl_go_bed.png",
+        "gl_put_on_pajamas.png",
+        "gl_put_on_shoes.png",
+        "gl_take_shower.png",
+        "gl_wash_face.png"
+      ],
       "Sounds": [
         "gl_brush_hair.ogg",
         "gl_brush_teeth.ogg",
@@ -1048,9 +1149,9 @@
         "gl_take_shower.ogg",
         "gl_wash_face.ogg"
       ],
-      "LastChanged": "2025-02-11T08:29:23.5685143+03:00",
-      "ItemAmount": 7
+      "LastChanged": "2025-02-13T10:52:42.3848352+03:00",
+      "ItemAmount": 14
     }
   ],
-  "TotalItemAmount": 735
+  "TotalItemAmount": 803
 }
