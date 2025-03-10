@@ -1,5 +1,5 @@
 {
-  "unit": "Unit_001",
+  "unit": "Unit_002",
   "UsedGlossaries": [
     {
       "GlossaryName": "GL_00_01",
@@ -34,14 +34,22 @@
       "GlossaryName": "GL_00_05",
       "Sprites": [
         "gl_coin_1.png",
+        "gl_coin_1_2.png",
+        "gl_coin_1_5.png",
         "gl_coin_2.png",
+        "gl_coin_2_2.png",
+        "gl_coin_2_2_1.png",
+        "gl_coin_2_2_2.png",
+        "gl_coin_2_5.png",
         "gl_coin_4.png",
         "gl_coin_5.png",
+        "gl_coin_5_2_1.png",
+        "gl_coin_5_5.png",
         "gl_coin_6.png"
       ],
       "Sounds": [],
       "LastChanged": "2025-02-14T16:32:27.6943083+03:00",
-      "ItemAmount": 5
+      "ItemAmount": 13
     },
     {
       "GlossaryName": "GL_00_06",
@@ -71,6 +79,7 @@
         "gl_jacket.png",
         "gl_jacket_loc.png",
         "gl_jeans.png",
+        "gl_jeans_loc.png",
         "gl_panties.png",
         "gl_shirt.png",
         "gl_shorts.png",
@@ -82,11 +91,13 @@
         "gl_socks_loc.png",
         "gl_sock_cap.png",
         "gl_sock_cap_big_red.png",
+        "gl_sock_cap_loc.png",
         "gl_sock_cap_orange.png",
         "gl_sock_cap_red.png",
         "gl_sock_cap_small_green.png",
         "gl_sock_cap_small_red.png",
         "gl_sweater.png",
+        "gl_sweater_loc.png",
         "gl_trainers.png",
         "gl_trousers.png",
         "gl_trousers_loc.png",
@@ -126,7 +137,7 @@
         "gl_tshirt_race.ogg"
       ],
       "LastChanged": "2025-02-11T07:29:25.9552946Z",
-      "ItemAmount": 60
+      "ItemAmount": 63
     },
     {
       "GlossaryName": "GL_00_08",
@@ -151,6 +162,7 @@
         "gl_pants_girl.png",
         "gl_rubber_boots.png",
         "gl_rubber_boots_big_blue.png",
+        "gl_rubber_boots_loc.png",
         "gl_rubber_boots_medium_blue.png",
         "gl_rubber_boots_small_blue.png",
         "gl_sandals.png",
@@ -160,7 +172,8 @@
         "gl_slippers_loc.png",
         "gl_sundress.png",
         "gl_sundress_loc.png",
-        "gl_swimsuit.png"
+        "gl_swimsuit.png",
+        "gl_swimsuit_loc.png"
       ],
       "Sounds": [
         "gl_blouse.ogg",
@@ -198,7 +211,7 @@
         "gl_umbrella_small.ogg"
       ],
       "LastChanged": "2025-02-11T15:08:34.0493963Z",
-      "ItemAmount": 63
+      "ItemAmount": 65
     },
     {
       "GlossaryName": "GL_00_11",
@@ -207,11 +220,17 @@
         "gl_numicon_1.png",
         "gl_numicon_10.png",
         "gl_numicon_2.png",
+        "gl_numicon_2_3.png",
         "gl_numicon_2_4.png",
+        "gl_numicon_2_5.png",
         "gl_numicon_2_6.png",
+        "gl_numicon_2_8.png",
+        "gl_numicon_2_9.png",
         "gl_numicon_3.png",
+        "gl_numicon_3_3.png",
         "gl_numicon_4.png",
         "gl_numicon_4_3.png",
+        "gl_numicon_4_4.png",
         "gl_numicon_5.png",
         "gl_numicon_6.png",
         "gl_numicon_7.png",
@@ -220,18 +239,26 @@
       ],
       "Sounds": [],
       "LastChanged": "2025-02-14T16:32:27.8007666+03:00",
-      "ItemAmount": 14
+      "ItemAmount": 20
     },
     {
       "GlossaryName": "GL_00_13",
       "Sprites": [
         "gl_bear_pricetag.png",
         "gl_book_pricetag.png",
-        "gl_juice_pricetag.png"
+        "gl_cake1_pricetag.png",
+        "gl_cake2_pricetag.png",
+        "gl_cake3_pricetag.png",
+        "gl_cloak_pricetag.png",
+        "gl_eggs_pricetag.png",
+        "gl_juice_pricetag.png",
+        "gl_milk_pricetag.png",
+        "gl_rubber_boots_pricetag.png",
+        "gl_sock_cap_pricetag.png"
       ],
       "Sounds": [],
       "LastChanged": "2025-02-03T14:15:48.1464348+03:00",
-      "ItemAmount": 3
+      "ItemAmount": 11
     },
     {
       "GlossaryName": "GL_01_01",
@@ -386,6 +413,7 @@
         "gl_butter.png",
         "gl_butter_loc.png",
         "gl_cabbage.png",
+        "gl_cabbage_loc.png",
         "gl_carrot.png",
         "gl_carrot_loc.png",
         "gl_cheese.png",
@@ -398,6 +426,7 @@
         "gl_corn_flakes_loc.png",
         "gl_crackers.png",
         "gl_cucumber.png",
+        "gl_cucumber_loc.png",
         "gl_eggs.png",
         "gl_eggs_loc.png",
         "gl_fish.png",
@@ -427,6 +456,7 @@
         "gl_potatoes_2.png",
         "gl_potatoes_3.png",
         "gl_potatoes_4.png",
+        "gl_potato_loc.png",
         "gl_pot_soup.png",
         "gl_pot_soup_loc.png",
         "gl_radish.png",
@@ -494,15 +524,19 @@
         "gl_yogurt.ogg"
       ],
       "LastChanged": "2025-02-21T05:51:51.1603266Z",
-      "ItemAmount": 111
+      "ItemAmount": 114
     },
     {
       "GlossaryName": "GL_02_04",
       "Sprites": [
         "gl_juice_apple.png",
+        "gl_juice_apple_loc.png",
         "gl_juice_carrot.png",
+        "gl_juice_carrot_loc.png",
         "gl_juice_orange.png",
-        "gl_juice_pumpkin.png"
+        "gl_juice_orange_loc.png",
+        "gl_juice_pumpkin.png",
+        "gl_juice_pumpkin_loc.png"
       ],
       "Sounds": [
         "gl_juice_apple.ogg",
@@ -511,7 +545,7 @@
         "gl_juice_pumpkin.ogg"
       ],
       "LastChanged": "2025-01-29T09:15:08.5353529+03:00",
-      "ItemAmount": 8
+      "ItemAmount": 12
     },
     {
       "GlossaryName": "GL_02_05",
@@ -673,6 +707,7 @@
         "gl_car.png",
         "gl_carriage.png",
         "gl_carriage_coal.png",
+        "gl_carriage_coal_outline.png",
         "gl_carriage_outline.png",
         "gl_car_loc.png",
         "gl_construction_bolts.png",
@@ -682,11 +717,15 @@
         "gl_cubes.png",
         "gl_cubes_loc.png",
         "gl_cube_blue.png",
+        "gl_cube_blue_loc.png",
         "gl_cube_red.png",
+        "gl_cube_red_loc.png",
         "gl_cube_yellow.png",
+        "gl_cube_yellow_loc.png",
         "gl_fence.png",
         "gl_locomotive.png",
         "gl_locomotive_carriage_coal_outline.png",
+        "gl_locomotive_outline.png",
         "gl_rails.png",
         "gl_rails_outline.png",
         "gl_railway.png",
@@ -743,7 +782,7 @@
         "gl_truck_coal.ogg"
       ],
       "LastChanged": "2025-02-10T09:03:16.5955774Z",
-      "ItemAmount": 86
+      "ItemAmount": 91
     },
     {
       "GlossaryName": "GL_03_04",
@@ -1054,9 +1093,12 @@
       "Sprites": [
         "gl_beads.png",
         "gl_book.png",
+        "gl_book_shelf.png",
         "gl_bracelet.png",
+        "gl_crafts_shelf.png",
         "gl_drawing.png",
         "gl_embroidery.png",
+        "gl_jewelry_box.png",
         "gl_wooden_box.png",
         "gl_wooden_box_loc.png",
         "gl_wooden_elephant.png",
@@ -1078,7 +1120,7 @@
         "gl_wooden_ship_loc.ogg"
       ],
       "LastChanged": "2025-02-10T09:03:16.8804549Z",
-      "ItemAmount": 22
+      "ItemAmount": 25
     },
     {
       "GlossaryName": "GL_10_02",
@@ -1174,5 +1216,5 @@
       "ItemAmount": 14
     }
   ],
-  "TotalItemAmount": 815
+  "TotalItemAmount": 857
 }
